@@ -28,4 +28,4 @@ The genre was chosen to incentivize strategic gameplay and the selection options
   - And Art sourced from: https://opengameart.org/content/various-creatures
 
 ### DevLog: 
-[0. This Description](README.md) 
+  0. [This Description](README.md) 
